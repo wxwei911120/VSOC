@@ -1,0 +1,13 @@
+資料擷取與視覺化:(樹梅派)
+
+elm327-rsb pi(process)-mqtt(內網)-node red(dashboard)-db
+
+----------------------------------------------------------
+query db(using python)
+
+
+db - python scirpt(加密) -外網db
+			 -mqtt broker --- server--- decode
+			 -視覺化...
+			 -分析平台
+			 
