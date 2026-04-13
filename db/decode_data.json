@@ -1,0 +1,7852 @@
+[{
+  "_id": {
+    "$oid": "66753714b9b047d0c3cc2fb9"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:45.607Z"
+  },
+  "SPD(km/h)": 105,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753715b9b047d0c3cc2fba"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:45.630Z"
+  },
+  "SPD(km/h)": 105,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753715b9b047d0c3cc2fbb"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:45.653Z"
+  },
+  "SPD(km/h)": 105,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753715b9b047d0c3cc2fbc"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:45.678Z"
+  },
+  "SPD(km/h)": 105,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753715b9b047d0c3cc2fbd"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:45.700Z"
+  },
+  "SPD(km/h)": 105,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753715b9b047d0c3cc2fbe"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:45.722Z"
+  },
+  "SPD(km/h)": 105,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753715b9b047d0c3cc2fbf"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:45.745Z"
+  },
+  "SPD(km/h)": 105,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753715b9b047d0c3cc2fc0"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:45.769Z"
+  },
+  "SPD(km/h)": 105,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753715b9b047d0c3cc2fc1"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:45.792Z"
+  },
+  "SPD(km/h)": 105,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753715b9b047d0c3cc2fc2"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:45.815Z"
+  },
+  "SPD(km/h)": 105,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753715b9b047d0c3cc2fc3"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:45.840Z"
+  },
+  "SPD(km/h)": 105,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753715b9b047d0c3cc2fc4"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:45.863Z"
+  },
+  "SPD(km/h)": 104,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753715b9b047d0c3cc2fc5"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:45.887Z"
+  },
+  "SPD(km/h)": 104,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753715b9b047d0c3cc2fc6"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:45.909Z"
+  },
+  "SPD(km/h)": 104,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753716b9b047d0c3cc2fc7"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:45.932Z"
+  },
+  "SPD(km/h)": 104,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753716b9b047d0c3cc2fc8"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:45.955Z"
+  },
+  "SPD(km/h)": 104,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753716b9b047d0c3cc2fc9"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:45.978Z"
+  },
+  "SPD(km/h)": 104,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753716b9b047d0c3cc2fca"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.002Z"
+  },
+  "SPD(km/h)": 104,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753716b9b047d0c3cc2fcb"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.025Z"
+  },
+  "SPD(km/h)": 104,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753716b9b047d0c3cc2fcc"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.048Z"
+  },
+  "SPD(km/h)": 104,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753716b9b047d0c3cc2fcd"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.071Z"
+  },
+  "SPD(km/h)": 104,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753716b9b047d0c3cc2fce"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.094Z"
+  },
+  "SPD(km/h)": 104,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753716b9b047d0c3cc2fcf"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.118Z"
+  },
+  "SPD(km/h)": 104,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753716b9b047d0c3cc2fd0"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.141Z"
+  },
+  "SPD(km/h)": 104,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753716b9b047d0c3cc2fd1"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.164Z"
+  },
+  "SPD(km/h)": 104,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753716b9b047d0c3cc2fd2"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.188Z"
+  },
+  "SPD(km/h)": 104,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753716b9b047d0c3cc2fd3"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.211Z"
+  },
+  "SPD(km/h)": 104,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 176,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753716b9b047d0c3cc2fd4"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.235Z"
+  },
+  "SPD(km/h)": 148,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 176,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753716b9b047d0c3cc2fd5"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.260Z"
+  },
+  "SPD(km/h)": 148,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 176,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753716b9b047d0c3cc2fd6"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.286Z"
+  },
+  "SPD(km/h)": 148,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 176,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753716b9b047d0c3cc2fd7"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.312Z"
+  },
+  "SPD(km/h)": 148,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 176,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753716b9b047d0c3cc2fd8"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.338Z"
+  },
+  "SPD(km/h)": 148,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 176,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753716b9b047d0c3cc2fd9"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.362Z"
+  },
+  "SPD(km/h)": 148,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 176,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753717b9b047d0c3cc2fda"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.386Z"
+  },
+  "SPD(km/h)": 148,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 176,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753717b9b047d0c3cc2fdb"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.409Z"
+  },
+  "SPD(km/h)": 148,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 176,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753717b9b047d0c3cc2fdc"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.433Z"
+  },
+  "SPD(km/h)": 148,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 176,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753717b9b047d0c3cc2fdd"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.456Z"
+  },
+  "SPD(km/h)": 148,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 176,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753717b9b047d0c3cc2fde"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.480Z"
+  },
+  "SPD(km/h)": 148,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 176,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753717b9b047d0c3cc2fdf"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.503Z"
+  },
+  "SPD(km/h)": 148,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 176,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753717b9b047d0c3cc2fe0"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.526Z"
+  },
+  "SPD(km/h)": 148,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 176,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753717b9b047d0c3cc2fe1"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.549Z"
+  },
+  "SPD(km/h)": 148,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 176,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753717b9b047d0c3cc2fe2"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.573Z"
+  },
+  "SPD(km/h)": 148,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753717b9b047d0c3cc2fe3"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.596Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753717b9b047d0c3cc2fe4"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.620Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753717b9b047d0c3cc2fe5"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.643Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753717b9b047d0c3cc2fe6"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.666Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753717b9b047d0c3cc2fe7"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.691Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753717b9b047d0c3cc2fe8"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.715Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753717b9b047d0c3cc2fe9"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.738Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753717b9b047d0c3cc2fea"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.762Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753717b9b047d0c3cc2feb"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.785Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753717b9b047d0c3cc2fec"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.808Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753717b9b047d0c3cc2fed"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.832Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753718b9b047d0c3cc2fee"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.854Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753718b9b047d0c3cc2fef"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.877Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753718b9b047d0c3cc2ff0"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.901Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753718b9b047d0c3cc2ff1"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.924Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753718b9b047d0c3cc2ff2"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.947Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753718b9b047d0c3cc2ff3"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.970Z"
+  },
+  "SPD(km/h)": 149,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753718b9b047d0c3cc2ff4"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:46.993Z"
+  },
+  "SPD(km/h)": 149,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753718b9b047d0c3cc2ff5"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.015Z"
+  },
+  "SPD(km/h)": 149,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753718b9b047d0c3cc2ff6"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.040Z"
+  },
+  "SPD(km/h)": 149,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753718b9b047d0c3cc2ff7"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.064Z"
+  },
+  "SPD(km/h)": 149,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753718b9b047d0c3cc2ff8"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.087Z"
+  },
+  "SPD(km/h)": 149,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753718b9b047d0c3cc2ff9"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.110Z"
+  },
+  "SPD(km/h)": 149,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753718b9b047d0c3cc2ffa"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.133Z"
+  },
+  "SPD(km/h)": 149,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753718b9b047d0c3cc2ffb"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.156Z"
+  },
+  "SPD(km/h)": 149,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753718b9b047d0c3cc2ffc"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.179Z"
+  },
+  "SPD(km/h)": 149,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753718b9b047d0c3cc2ffd"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.204Z"
+  },
+  "SPD(km/h)": 149,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753718b9b047d0c3cc2ffe"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.227Z"
+  },
+  "SPD(km/h)": 149,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753718b9b047d0c3cc2fff"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.250Z"
+  },
+  "SPD(km/h)": 149,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753718b9b047d0c3cc3000"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.275Z"
+  },
+  "SPD(km/h)": 149,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753719b9b047d0c3cc3001"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.313Z"
+  },
+  "SPD(km/h)": 149,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753719b9b047d0c3cc3002"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.341Z"
+  },
+  "SPD(km/h)": 92,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 176,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753719b9b047d0c3cc3003"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.365Z"
+  },
+  "SPD(km/h)": 92,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 176,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753719b9b047d0c3cc3004"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.390Z"
+  },
+  "SPD(km/h)": 92,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 176,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753719b9b047d0c3cc3005"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.413Z"
+  },
+  "SPD(km/h)": 92,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 176,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753719b9b047d0c3cc3006"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.437Z"
+  },
+  "SPD(km/h)": 92,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 176,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753719b9b047d0c3cc3007"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.460Z"
+  },
+  "SPD(km/h)": 92,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 176,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753719b9b047d0c3cc3008"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.483Z"
+  },
+  "SPD(km/h)": 92,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 176,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753719b9b047d0c3cc3009"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.506Z"
+  },
+  "SPD(km/h)": 92,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 176,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753719b9b047d0c3cc300a"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.529Z"
+  },
+  "SPD(km/h)": 92,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 176,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753719b9b047d0c3cc300b"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.553Z"
+  },
+  "SPD(km/h)": 92,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 176,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753719b9b047d0c3cc300c"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.577Z"
+  },
+  "SPD(km/h)": 92,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 176,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753719b9b047d0c3cc300d"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.600Z"
+  },
+  "SPD(km/h)": 92,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 176,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753719b9b047d0c3cc300e"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.624Z"
+  },
+  "SPD(km/h)": 92,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 176,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753719b9b047d0c3cc300f"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.650Z"
+  },
+  "SPD(km/h)": 92,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 176,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753719b9b047d0c3cc3010"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.678Z"
+  },
+  "SPD(km/h)": 105,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753719b9b047d0c3cc3011"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.706Z"
+  },
+  "SPD(km/h)": 105,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753719b9b047d0c3cc3012"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.735Z"
+  },
+  "SPD(km/h)": 105,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753719b9b047d0c3cc3013"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.757Z"
+  },
+  "SPD(km/h)": 105,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753719b9b047d0c3cc3014"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.780Z"
+  },
+  "SPD(km/h)": 105,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371ab9b047d0c3cc3015"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.803Z"
+  },
+  "SPD(km/h)": 105,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371ab9b047d0c3cc3016"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.827Z"
+  },
+  "SPD(km/h)": 105,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371ab9b047d0c3cc3017"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.850Z"
+  },
+  "SPD(km/h)": 105,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371ab9b047d0c3cc3018"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.873Z"
+  },
+  "SPD(km/h)": 105,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371ab9b047d0c3cc3019"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.897Z"
+  },
+  "SPD(km/h)": 105,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371ab9b047d0c3cc301a"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.920Z"
+  },
+  "SPD(km/h)": 105,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371ab9b047d0c3cc301b"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.958Z"
+  },
+  "SPD(km/h)": 105,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371ab9b047d0c3cc301c"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:47.981Z"
+  },
+  "SPD(km/h)": 105,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371ab9b047d0c3cc301d"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.004Z"
+  },
+  "SPD(km/h)": 105,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371ab9b047d0c3cc301e"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.027Z"
+  },
+  "SPD(km/h)": 105,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371ab9b047d0c3cc301f"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.049Z"
+  },
+  "SPD(km/h)": 207,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371ab9b047d0c3cc3020"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.072Z"
+  },
+  "SPD(km/h)": 207,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371ab9b047d0c3cc3021"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.095Z"
+  },
+  "SPD(km/h)": 207,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371ab9b047d0c3cc3022"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.118Z"
+  },
+  "SPD(km/h)": 207,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371ab9b047d0c3cc3023"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.140Z"
+  },
+  "SPD(km/h)": 207,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371ab9b047d0c3cc3024"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.163Z"
+  },
+  "SPD(km/h)": 207,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371ab9b047d0c3cc3025"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.185Z"
+  },
+  "SPD(km/h)": 207,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371ab9b047d0c3cc3026"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.208Z"
+  },
+  "SPD(km/h)": 207,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371ab9b047d0c3cc3027"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.231Z"
+  },
+  "SPD(km/h)": 207,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371ab9b047d0c3cc3028"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.253Z"
+  },
+  "SPD(km/h)": 207,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371bb9b047d0c3cc3029"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.276Z"
+  },
+  "SPD(km/h)": 207,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371bb9b047d0c3cc302a"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.298Z"
+  },
+  "SPD(km/h)": 207,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371bb9b047d0c3cc302b"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.321Z"
+  },
+  "SPD(km/h)": 207,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371bb9b047d0c3cc302c"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.343Z"
+  },
+  "SPD(km/h)": 207,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371bb9b047d0c3cc302d"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.367Z"
+  },
+  "SPD(km/h)": 207,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371bb9b047d0c3cc302e"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.390Z"
+  },
+  "SPD(km/h)": 207,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371bb9b047d0c3cc302f"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.413Z"
+  },
+  "SPD(km/h)": 116,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.3100000000001,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371bb9b047d0c3cc3030"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.435Z"
+  },
+  "SPD(km/h)": 116,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.3100000000001,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371bb9b047d0c3cc3031"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.458Z"
+  },
+  "SPD(km/h)": 116,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.3100000000001,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371bb9b047d0c3cc3032"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.482Z"
+  },
+  "SPD(km/h)": 116,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.3100000000001,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371bb9b047d0c3cc3033"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.505Z"
+  },
+  "SPD(km/h)": 116,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.3100000000001,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371bb9b047d0c3cc3034"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.527Z"
+  },
+  "SPD(km/h)": 116,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.3100000000001,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371bb9b047d0c3cc3035"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.551Z"
+  },
+  "SPD(km/h)": 116,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.3100000000001,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371bb9b047d0c3cc3036"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.574Z"
+  },
+  "SPD(km/h)": 116,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.3100000000001,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371bb9b047d0c3cc3037"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.599Z"
+  },
+  "SPD(km/h)": 116,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.3100000000001,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371bb9b047d0c3cc3038"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.622Z"
+  },
+  "SPD(km/h)": 116,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.3100000000001,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371bb9b047d0c3cc3039"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.645Z"
+  },
+  "SPD(km/h)": 116,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.3100000000001,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371bb9b047d0c3cc303a"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.670Z"
+  },
+  "SPD(km/h)": 116,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.3100000000001,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371bb9b047d0c3cc303b"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.694Z"
+  },
+  "SPD(km/h)": 116,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.3100000000001,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371bb9b047d0c3cc303c"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.718Z"
+  },
+  "SPD(km/h)": 116,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.3100000000001,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371cb9b047d0c3cc303d"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.742Z"
+  },
+  "SPD(km/h)": 116,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.3100000000001,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371cb9b047d0c3cc303e"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.768Z"
+  },
+  "SPD(km/h)": 46,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371cb9b047d0c3cc303f"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.793Z"
+  },
+  "SPD(km/h)": 46,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371cb9b047d0c3cc3040"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.816Z"
+  },
+  "SPD(km/h)": 46,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371cb9b047d0c3cc3041"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.838Z"
+  },
+  "SPD(km/h)": 46,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371cb9b047d0c3cc3042"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.861Z"
+  },
+  "SPD(km/h)": 46,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371cb9b047d0c3cc3043"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.884Z"
+  },
+  "SPD(km/h)": 46,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371cb9b047d0c3cc3044"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.908Z"
+  },
+  "SPD(km/h)": 46,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371cb9b047d0c3cc3045"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.931Z"
+  },
+  "SPD(km/h)": 46,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371cb9b047d0c3cc3046"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.955Z"
+  },
+  "SPD(km/h)": 46,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371cb9b047d0c3cc3047"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:48.978Z"
+  },
+  "SPD(km/h)": 46,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371cb9b047d0c3cc3048"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.001Z"
+  },
+  "SPD(km/h)": 46,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371cb9b047d0c3cc3049"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.024Z"
+  },
+  "SPD(km/h)": 46,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371cb9b047d0c3cc304a"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.049Z"
+  },
+  "SPD(km/h)": 46,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371cb9b047d0c3cc304b"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.071Z"
+  },
+  "SPD(km/h)": 46,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371cb9b047d0c3cc304c"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.095Z"
+  },
+  "SPD(km/h)": 46,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371cb9b047d0c3cc304d"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.118Z"
+  },
+  "SPD(km/h)": 46,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371cb9b047d0c3cc304e"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.142Z"
+  },
+  "SPD(km/h)": 153,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371cb9b047d0c3cc304f"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.164Z"
+  },
+  "SPD(km/h)": 153,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371cb9b047d0c3cc3050"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.188Z"
+  },
+  "SPD(km/h)": 153,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371db9b047d0c3cc3051"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.211Z"
+  },
+  "SPD(km/h)": 153,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371db9b047d0c3cc3052"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.233Z"
+  },
+  "SPD(km/h)": 153,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371db9b047d0c3cc3053"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.256Z"
+  },
+  "SPD(km/h)": 153,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371db9b047d0c3cc3054"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.279Z"
+  },
+  "SPD(km/h)": 153,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371db9b047d0c3cc3055"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.302Z"
+  },
+  "SPD(km/h)": 153,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371db9b047d0c3cc3056"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.325Z"
+  },
+  "SPD(km/h)": 153,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371db9b047d0c3cc3057"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.348Z"
+  },
+  "SPD(km/h)": 153,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371db9b047d0c3cc3058"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.373Z"
+  },
+  "SPD(km/h)": 153,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371db9b047d0c3cc3059"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.397Z"
+  },
+  "SPD(km/h)": 153,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371db9b047d0c3cc305a"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.421Z"
+  },
+  "SPD(km/h)": 153,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371db9b047d0c3cc305b"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.445Z"
+  },
+  "SPD(km/h)": 153,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371db9b047d0c3cc305c"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.467Z"
+  },
+  "SPD(km/h)": 153,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371db9b047d0c3cc305d"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.490Z"
+  },
+  "SPD(km/h)": 153,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371db9b047d0c3cc305e"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.513Z"
+  },
+  "SPD(km/h)": 181,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371db9b047d0c3cc305f"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.536Z"
+  },
+  "SPD(km/h)": 181,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371db9b047d0c3cc3060"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.559Z"
+  },
+  "SPD(km/h)": 181,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371db9b047d0c3cc3061"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.581Z"
+  },
+  "SPD(km/h)": 181,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371db9b047d0c3cc3062"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.604Z"
+  },
+  "SPD(km/h)": 181,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371db9b047d0c3cc3063"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.627Z"
+  },
+  "SPD(km/h)": 181,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371db9b047d0c3cc3064"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.650Z"
+  },
+  "SPD(km/h)": 181,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371eb9b047d0c3cc3065"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.675Z"
+  },
+  "SPD(km/h)": 181,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371eb9b047d0c3cc3066"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.698Z"
+  },
+  "SPD(km/h)": 181,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371eb9b047d0c3cc3067"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.721Z"
+  },
+  "SPD(km/h)": 181,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371eb9b047d0c3cc3068"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.744Z"
+  },
+  "SPD(km/h)": 181,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371eb9b047d0c3cc3069"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.767Z"
+  },
+  "SPD(km/h)": 181,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371eb9b047d0c3cc306a"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.790Z"
+  },
+  "SPD(km/h)": 181,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371eb9b047d0c3cc306b"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.814Z"
+  },
+  "SPD(km/h)": 181,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371eb9b047d0c3cc306c"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.836Z"
+  },
+  "SPD(km/h)": 181,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371eb9b047d0c3cc306d"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.860Z"
+  },
+  "SPD(km/h)": 81,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.03,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371eb9b047d0c3cc306e"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.882Z"
+  },
+  "SPD(km/h)": 81,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.03,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371eb9b047d0c3cc306f"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.905Z"
+  },
+  "SPD(km/h)": 81,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.03,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371eb9b047d0c3cc3070"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.928Z"
+  },
+  "SPD(km/h)": 81,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.03,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371eb9b047d0c3cc3071"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.952Z"
+  },
+  "SPD(km/h)": 81,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.03,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371eb9b047d0c3cc3072"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.975Z"
+  },
+  "SPD(km/h)": 81,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.03,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371eb9b047d0c3cc3073"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:49.997Z"
+  },
+  "SPD(km/h)": 81,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.03,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371eb9b047d0c3cc3074"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.021Z"
+  },
+  "SPD(km/h)": 81,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.03,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371eb9b047d0c3cc3075"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.043Z"
+  },
+  "SPD(km/h)": 81,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.03,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371eb9b047d0c3cc3076"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.067Z"
+  },
+  "SPD(km/h)": 81,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.03,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371eb9b047d0c3cc3077"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.090Z"
+  },
+  "SPD(km/h)": 81,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.03,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371fb9b047d0c3cc3078"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.114Z"
+  },
+  "SPD(km/h)": 81,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.03,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371fb9b047d0c3cc3079"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.137Z"
+  },
+  "SPD(km/h)": 81,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.03,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371fb9b047d0c3cc307a"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.160Z"
+  },
+  "SPD(km/h)": 81,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.03,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371fb9b047d0c3cc307b"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.183Z"
+  },
+  "SPD(km/h)": 81,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.03,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371fb9b047d0c3cc307c"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.206Z"
+  },
+  "SPD(km/h)": 81,
+  "RPM(Rpm)": 6126.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.03,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371fb9b047d0c3cc307d"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.228Z"
+  },
+  "SPD(km/h)": 126,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371fb9b047d0c3cc307e"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.254Z"
+  },
+  "SPD(km/h)": 126,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371fb9b047d0c3cc307f"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.278Z"
+  },
+  "SPD(km/h)": 126,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371fb9b047d0c3cc3080"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.302Z"
+  },
+  "SPD(km/h)": 126,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371fb9b047d0c3cc3081"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.325Z"
+  },
+  "SPD(km/h)": 126,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371fb9b047d0c3cc3082"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.348Z"
+  },
+  "SPD(km/h)": 126,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371fb9b047d0c3cc3083"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.371Z"
+  },
+  "SPD(km/h)": 126,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371fb9b047d0c3cc3084"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.395Z"
+  },
+  "SPD(km/h)": 126,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371fb9b047d0c3cc3085"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.419Z"
+  },
+  "SPD(km/h)": 126,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371fb9b047d0c3cc3086"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.441Z"
+  },
+  "SPD(km/h)": 126,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371fb9b047d0c3cc3087"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.466Z"
+  },
+  "SPD(km/h)": 126,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "6675371fb9b047d0c3cc3088"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.492Z"
+  },
+  "SPD(km/h)": 126,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753720b9b047d0c3cc3089"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.517Z"
+  },
+  "SPD(km/h)": 126,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753720b9b047d0c3cc308a"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.541Z"
+  },
+  "SPD(km/h)": 126,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753720b9b047d0c3cc308b"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.564Z"
+  },
+  "SPD(km/h)": 126,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753720b9b047d0c3cc308c"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.589Z"
+  },
+  "SPD(km/h)": 219,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753720b9b047d0c3cc308d"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.612Z"
+  },
+  "SPD(km/h)": 219,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753720b9b047d0c3cc308e"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.635Z"
+  },
+  "SPD(km/h)": 219,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753720b9b047d0c3cc308f"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.659Z"
+  },
+  "SPD(km/h)": 219,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753720b9b047d0c3cc3090"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.683Z"
+  },
+  "SPD(km/h)": 219,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753720b9b047d0c3cc3091"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.705Z"
+  },
+  "SPD(km/h)": 219,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753720b9b047d0c3cc3092"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.728Z"
+  },
+  "SPD(km/h)": 219,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753720b9b047d0c3cc3093"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.758Z"
+  },
+  "SPD(km/h)": 219,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753720b9b047d0c3cc3094"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.786Z"
+  },
+  "SPD(km/h)": 219,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753720b9b047d0c3cc3095"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.816Z"
+  },
+  "SPD(km/h)": 219,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753720b9b047d0c3cc3096"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.838Z"
+  },
+  "SPD(km/h)": 219,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753720b9b047d0c3cc3097"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.863Z"
+  },
+  "SPD(km/h)": 219,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753720b9b047d0c3cc3098"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.886Z"
+  },
+  "SPD(km/h)": 219,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753720b9b047d0c3cc3099"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.909Z"
+  },
+  "SPD(km/h)": 219,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753720b9b047d0c3cc309a"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.932Z"
+  },
+  "SPD(km/h)": 219,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.19,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753721b9b047d0c3cc309b"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.955Z"
+  },
+  "SPD(km/h)": 131,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.99,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753721b9b047d0c3cc309c"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:50.979Z"
+  },
+  "SPD(km/h)": 131,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.99,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753721b9b047d0c3cc309d"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.004Z"
+  },
+  "SPD(km/h)": 131,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.99,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753721b9b047d0c3cc309e"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.027Z"
+  },
+  "SPD(km/h)": 131,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.99,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753721b9b047d0c3cc309f"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.050Z"
+  },
+  "SPD(km/h)": 131,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.99,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753721b9b047d0c3cc30a0"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.073Z"
+  },
+  "SPD(km/h)": 131,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.99,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753721b9b047d0c3cc30a1"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.097Z"
+  },
+  "SPD(km/h)": 131,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.99,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753721b9b047d0c3cc30a2"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.120Z"
+  },
+  "SPD(km/h)": 131,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.99,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753721b9b047d0c3cc30a3"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.143Z"
+  },
+  "SPD(km/h)": 131,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.99,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753721b9b047d0c3cc30a4"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.166Z"
+  },
+  "SPD(km/h)": 131,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.99,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753721b9b047d0c3cc30a5"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.189Z"
+  },
+  "SPD(km/h)": 131,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.99,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753721b9b047d0c3cc30a6"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.212Z"
+  },
+  "SPD(km/h)": 131,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.99,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753721b9b047d0c3cc30a7"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.235Z"
+  },
+  "SPD(km/h)": 131,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.99,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753721b9b047d0c3cc30a8"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.257Z"
+  },
+  "SPD(km/h)": 131,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.99,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753721b9b047d0c3cc30a9"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.280Z"
+  },
+  "SPD(km/h)": 131,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.99,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753721b9b047d0c3cc30aa"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.303Z"
+  },
+  "SPD(km/h)": 131,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753721b9b047d0c3cc30ab"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.326Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753721b9b047d0c3cc30ac"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.349Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753721b9b047d0c3cc30ad"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.372Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753722b9b047d0c3cc30ae"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.395Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753722b9b047d0c3cc30af"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.419Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753722b9b047d0c3cc30b0"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.441Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753722b9b047d0c3cc30b1"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.464Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753722b9b047d0c3cc30b2"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.488Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753722b9b047d0c3cc30b3"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.511Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753722b9b047d0c3cc30b4"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.535Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753722b9b047d0c3cc30b5"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.559Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753722b9b047d0c3cc30b6"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.582Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753722b9b047d0c3cc30b7"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.604Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753722b9b047d0c3cc30b8"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.627Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753722b9b047d0c3cc30b9"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.650Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753722b9b047d0c3cc30ba"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.673Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753722b9b047d0c3cc30bb"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.697Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6124.5,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753722b9b047d0c3cc30bc"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.720Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6124.5,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753722b9b047d0c3cc30bd"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.743Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6124.5,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753722b9b047d0c3cc30be"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.765Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6124.5,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753722b9b047d0c3cc30bf"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.788Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6124.5,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753723b9b047d0c3cc30c0"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.811Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6124.5,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753723b9b047d0c3cc30c1"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.833Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6124.5,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753723b9b047d0c3cc30c2"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.855Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6124.5,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753723b9b047d0c3cc30c3"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.880Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6124.5,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753723b9b047d0c3cc30c4"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.903Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6124.5,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753723b9b047d0c3cc30c5"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.925Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6124.5,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753723b9b047d0c3cc30c6"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.949Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6124.5,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753723b9b047d0c3cc30c7"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.972Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6124.5,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753723b9b047d0c3cc30c8"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:51.995Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6124.5,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753723b9b047d0c3cc30c9"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.018Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6124.5,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753723b9b047d0c3cc30ca"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.041Z"
+  },
+  "SPD(km/h)": 196,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753723b9b047d0c3cc30cb"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.066Z"
+  },
+  "SPD(km/h)": 128,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753723b9b047d0c3cc30cc"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.089Z"
+  },
+  "SPD(km/h)": 128,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753723b9b047d0c3cc30cd"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.112Z"
+  },
+  "SPD(km/h)": 128,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753723b9b047d0c3cc30ce"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.135Z"
+  },
+  "SPD(km/h)": 128,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753723b9b047d0c3cc30cf"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.158Z"
+  },
+  "SPD(km/h)": 128,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753723b9b047d0c3cc30d0"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.182Z"
+  },
+  "SPD(km/h)": 128,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753723b9b047d0c3cc30d1"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.204Z"
+  },
+  "SPD(km/h)": 128,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753723b9b047d0c3cc30d2"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.226Z"
+  },
+  "SPD(km/h)": 128,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753723b9b047d0c3cc30d3"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.250Z"
+  },
+  "SPD(km/h)": 128,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753724b9b047d0c3cc30d4"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.273Z"
+  },
+  "SPD(km/h)": 128,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753724b9b047d0c3cc30d5"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.297Z"
+  },
+  "SPD(km/h)": 128,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753724b9b047d0c3cc30d6"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.320Z"
+  },
+  "SPD(km/h)": 128,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753724b9b047d0c3cc30d7"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.343Z"
+  },
+  "SPD(km/h)": 128,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753724b9b047d0c3cc30d8"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.365Z"
+  },
+  "SPD(km/h)": 128,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753724b9b047d0c3cc30d9"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.388Z"
+  },
+  "SPD(km/h)": 128,
+  "RPM(Rpm)": 6139,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753724b9b047d0c3cc30da"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.410Z"
+  },
+  "SPD(km/h)": 64,
+  "RPM(Rpm)": 6124.5,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753724b9b047d0c3cc30db"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.433Z"
+  },
+  "SPD(km/h)": 64,
+  "RPM(Rpm)": 6124.5,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753724b9b047d0c3cc30dc"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.457Z"
+  },
+  "SPD(km/h)": 64,
+  "RPM(Rpm)": 6124.5,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753724b9b047d0c3cc30dd"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.480Z"
+  },
+  "SPD(km/h)": 64,
+  "RPM(Rpm)": 6124.5,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753724b9b047d0c3cc30de"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.502Z"
+  },
+  "SPD(km/h)": 64,
+  "RPM(Rpm)": 6124.5,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753724b9b047d0c3cc30df"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.527Z"
+  },
+  "SPD(km/h)": 64,
+  "RPM(Rpm)": 6124.5,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753724b9b047d0c3cc30e0"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.550Z"
+  },
+  "SPD(km/h)": 64,
+  "RPM(Rpm)": 6124.5,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753724b9b047d0c3cc30e1"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.576Z"
+  },
+  "SPD(km/h)": 64,
+  "RPM(Rpm)": 6124.5,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753724b9b047d0c3cc30e2"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.602Z"
+  },
+  "SPD(km/h)": 64,
+  "RPM(Rpm)": 6124.5,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753724b9b047d0c3cc30e3"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.628Z"
+  },
+  "SPD(km/h)": 64,
+  "RPM(Rpm)": 6124.5,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753724b9b047d0c3cc30e4"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.651Z"
+  },
+  "SPD(km/h)": 64,
+  "RPM(Rpm)": 6124.5,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753724b9b047d0c3cc30e5"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.674Z"
+  },
+  "SPD(km/h)": 64,
+  "RPM(Rpm)": 6124.5,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753724b9b047d0c3cc30e6"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.696Z"
+  },
+  "SPD(km/h)": 64,
+  "RPM(Rpm)": 6124.5,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753724b9b047d0c3cc30e7"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.720Z"
+  },
+  "SPD(km/h)": 64,
+  "RPM(Rpm)": 6124.5,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753725b9b047d0c3cc30e8"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.745Z"
+  },
+  "SPD(km/h)": 64,
+  "RPM(Rpm)": 6124.5,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.67,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753725b9b047d0c3cc30e9"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.774Z"
+  },
+  "SPD(km/h)": 64,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753725b9b047d0c3cc30ea"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.802Z"
+  },
+  "SPD(km/h)": 184,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753725b9b047d0c3cc30eb"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.831Z"
+  },
+  "SPD(km/h)": 184,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753725b9b047d0c3cc30ec"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.854Z"
+  },
+  "SPD(km/h)": 184,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753725b9b047d0c3cc30ed"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.877Z"
+  },
+  "SPD(km/h)": 184,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753725b9b047d0c3cc30ee"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.900Z"
+  },
+  "SPD(km/h)": 184,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753725b9b047d0c3cc30ef"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.923Z"
+  },
+  "SPD(km/h)": 184,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753725b9b047d0c3cc30f0"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.945Z"
+  },
+  "SPD(km/h)": 184,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753725b9b047d0c3cc30f1"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.970Z"
+  },
+  "SPD(km/h)": 184,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753725b9b047d0c3cc30f2"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:52.993Z"
+  },
+  "SPD(km/h)": 184,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753725b9b047d0c3cc30f3"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.015Z"
+  },
+  "SPD(km/h)": 184,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753725b9b047d0c3cc30f4"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.039Z"
+  },
+  "SPD(km/h)": 184,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753725b9b047d0c3cc30f5"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.061Z"
+  },
+  "SPD(km/h)": 184,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753725b9b047d0c3cc30f6"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.084Z"
+  },
+  "SPD(km/h)": 184,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753725b9b047d0c3cc30f7"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.106Z"
+  },
+  "SPD(km/h)": 184,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.51,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.2552,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753725b9b047d0c3cc30f8"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.132Z"
+  },
+  "SPD(km/h)": 184,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753725b9b047d0c3cc30f9"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.156Z"
+  },
+  "SPD(km/h)": 158,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753726b9b047d0c3cc30fa"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.179Z"
+  },
+  "SPD(km/h)": 158,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753726b9b047d0c3cc30fb"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.201Z"
+  },
+  "SPD(km/h)": 158,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753726b9b047d0c3cc30fc"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.224Z"
+  },
+  "SPD(km/h)": 158,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753726b9b047d0c3cc30fd"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.249Z"
+  },
+  "SPD(km/h)": 158,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753726b9b047d0c3cc30fe"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.272Z"
+  },
+  "SPD(km/h)": 158,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753726b9b047d0c3cc30ff"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.295Z"
+  },
+  "SPD(km/h)": 158,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753726b9b047d0c3cc3100"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.317Z"
+  },
+  "SPD(km/h)": 158,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753726b9b047d0c3cc3101"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.340Z"
+  },
+  "SPD(km/h)": 158,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753726b9b047d0c3cc3102"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.363Z"
+  },
+  "SPD(km/h)": 158,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753726b9b047d0c3cc3103"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.390Z"
+  },
+  "SPD(km/h)": 158,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753726b9b047d0c3cc3104"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.415Z"
+  },
+  "SPD(km/h)": 158,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753726b9b047d0c3cc3105"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.439Z"
+  },
+  "SPD(km/h)": 158,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753726b9b047d0c3cc3106"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.461Z"
+  },
+  "SPD(km/h)": 158,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753726b9b047d0c3cc3107"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.484Z"
+  },
+  "SPD(km/h)": 158,
+  "RPM(Rpm)": 6129.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.35,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753726b9b047d0c3cc3108"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.508Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.99,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753726b9b047d0c3cc3109"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.531Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.99,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753726b9b047d0c3cc310a"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.555Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.99,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753726b9b047d0c3cc310b"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.579Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.99,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753727b9b047d0c3cc310c"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.602Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.99,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753727b9b047d0c3cc310d"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.625Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.99,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753727b9b047d0c3cc310e"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.648Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.99,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753727b9b047d0c3cc310f"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.672Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.99,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753727b9b047d0c3cc3110"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.696Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.99,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753727b9b047d0c3cc3111"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.719Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.99,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753727b9b047d0c3cc3112"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.741Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.99,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753727b9b047d0c3cc3113"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.764Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.99,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753727b9b047d0c3cc3114"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.786Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.99,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753727b9b047d0c3cc3115"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.810Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.99,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753727b9b047d0c3cc3116"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.835Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6134.25,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.99,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753727b9b047d0c3cc3117"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.859Z"
+  },
+  "SPD(km/h)": 87,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.15,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753727b9b047d0c3cc3118"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.882Z"
+  },
+  "SPD(km/h)": 201,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.15,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753727b9b047d0c3cc3119"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.905Z"
+  },
+  "SPD(km/h)": 201,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.15,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753728b9b047d0c3cc311a"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.930Z"
+  },
+  "SPD(km/h)": 201,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.15,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753728b9b047d0c3cc311b"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.953Z"
+  },
+  "SPD(km/h)": 201,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.15,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753728b9b047d0c3cc311c"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.976Z"
+  },
+  "SPD(km/h)": 201,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.15,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753728b9b047d0c3cc311d"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:53.999Z"
+  },
+  "SPD(km/h)": 201,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.15,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753728b9b047d0c3cc311e"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:54.021Z"
+  },
+  "SPD(km/h)": 201,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.15,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753728b9b047d0c3cc311f"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:54.043Z"
+  },
+  "SPD(km/h)": 201,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.15,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753728b9b047d0c3cc3120"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:54.066Z"
+  },
+  "SPD(km/h)": 201,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.15,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753728b9b047d0c3cc3121"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:54.088Z"
+  },
+  "SPD(km/h)": 201,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.15,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753728b9b047d0c3cc3122"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:54.112Z"
+  },
+  "SPD(km/h)": 201,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.15,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753728b9b047d0c3cc3123"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:54.135Z"
+  },
+  "SPD(km/h)": 201,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.15,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753728b9b047d0c3cc3124"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:54.158Z"
+  },
+  "SPD(km/h)": 201,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.15,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753728b9b047d0c3cc3125"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:54.181Z"
+  },
+  "SPD(km/h)": 201,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.15,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753728b9b047d0c3cc3126"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:54.205Z"
+  },
+  "SPD(km/h)": 201,
+  "RPM(Rpm)": 6131.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 515.15,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.39232,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753728b9b047d0c3cc3127"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:54.228Z"
+  },
+  "SPD(km/h)": 165,
+  "RPM(Rpm)": 6136.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753728b9b047d0c3cc3128"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:54.251Z"
+  },
+  "SPD(km/h)": 165,
+  "RPM(Rpm)": 6136.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753728b9b047d0c3cc3129"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:54.273Z"
+  },
+  "SPD(km/h)": 165,
+  "RPM(Rpm)": 6136.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753728b9b047d0c3cc312a"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:54.296Z"
+  },
+  "SPD(km/h)": 165,
+  "RPM(Rpm)": 6136.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753728b9b047d0c3cc312b"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:54.318Z"
+  },
+  "SPD(km/h)": 165,
+  "RPM(Rpm)": 6136.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753728b9b047d0c3cc312c"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:54.342Z"
+  },
+  "SPD(km/h)": 165,
+  "RPM(Rpm)": 6136.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753729b9b047d0c3cc312d"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:54.365Z"
+  },
+  "SPD(km/h)": 165,
+  "RPM(Rpm)": 6136.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "EL(%)": 20.00016,
+  "FTL(%)": 52.54901960784313,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+},
+{
+  "_id": {
+    "$oid": "66753729b9b047d0c3cc312e"
+  },
+  "DateTime": {
+    "$date": "2024-06-13T15:22:54.383Z"
+  },
+  "SPD(km/h)": 165,
+  "RPM(Rpm)": 6136.75,
+  "ECT(°C)": -3,
+  "IAT(°C)": 207,
+  "MAF(g/s)": 514.83,
+  "MAP(Kpa)": 175,
+  "TPS(%)": 37.64736,
+  "IAA(°)": 27.5,
+  "GPS": null,
+  "Block id": null,
+  "Anomaly": null
+}]
